@@ -1,0 +1,88 @@
+ /*backgrounds do site */
+ #bod{
+        background-image: url('foto/FUN.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed; 
+        background-size: 100% 100%;
+        max-width: 100%;
+        
+}body{
+   background-image: url('foto/fu.png');
+   background-repeat: no-repeat;
+   background-attachment: fixed; 
+   background-size: 100% 100%;
+}
+/*-------------------------------*/
+
+
+  /*cores da barra/cabecalho*/  
+#nav{
+    background-color: beige;
+    padding-top: 2px;
+    list-style-type: none;
+    margin: 1;
+    padding: 1;
+    overflow: hidden;
+    background-color: rgba(26, 15, 4, 0.774);
+    border-radius: 1px;
+    padding: 10px;
+    margin-right: 1px;
+    margin-left: 1px;
+    font-size: 15px;
+
+  }li {
+    float: left;
+    
+  }li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 24px 16px;
+    text-decoration: none;
+    border-radius: 10px;
+  }li a:hover {
+    background-color: rgba(8, 6, 4, 0.726);
+    
+   /*---------------------------------------*/
+
+    /* efeitos do id com as fotos*/
+  }#corpo{
+    border-radius: 50px;
+    margin-top: 3.5%;
+    padding-left: 20%;
+    padding-right: 10%;
+    padding: 6%;
+  } /* estilos da imagem*/
+  #img{
+    margin-top: 8%;
+    border-radius: 25%;
+    padding: 25px;
+    float: left;
+    margin-right: 1%;
+  }#corpo :hover{
+    opacity: 0.8;
+   
+  }
+  /*-------------------*/
+.buttom{
+  background-color: black;
+  color:aliceblue;
+
+
+  
+}button:hover{
+  opacity: 0.5;
+
+
+}fieldset{
+  margin-right: 65%;
+  background-color: rgba(101, 120, 141, 0.288);
+  color:rgb(0, 0, 0);
+  font-size: 20px;
+} #corpo :hover{
+  width: 400px;
+ 
+ }
+
+
+ 
